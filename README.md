@@ -1,3 +1,3 @@
 # LiteTimer
 - Timer App.
-https://github.com/DhananjayThomble/LiteTimer/blob/master/Screenshots/IMG_20190804_103525.jpg
+![IMG_20190804_103525](https://drive.google.com/open?id=1-HtBPsLJbeF95vz_j2ORq-bZRNGB89CX)
